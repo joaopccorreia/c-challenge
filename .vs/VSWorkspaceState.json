@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Luxclusif_challenge",
+    "\\Luxclusif_challengeTest",
+    "\\Luxclusif_challengeTest\\bin\\Debug",
+    "\\Luxclusif_challengeTest\\bin\\Release",
+    "\\Luxclusif_challenge\\Views",
+    "\\Luxclusif_challenge\\Views\\Home",
+    "\\Luxclusif_challenge\\Views\\Shared",
+    "\\Luxclusif_challenge\\wwwroot",
+    "\\Luxclusif_challenge\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\Luxclusif_challenge\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
